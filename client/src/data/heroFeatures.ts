@@ -9,6 +9,6 @@ export const heroFeatures = [
     },
     {
         title: "Security ever created",
-        description: "Quark r=never collects or asks for your transactions details, passwords, or your secret phrases. If we do, so it's sure that it's not us."
+        description: "Quark never collects or asks for your transactions details, passwords, or your secret phrases. If we do, so it's sure that it's not us."
     },
 ];
